@@ -1,3 +1,5 @@
+Darrin Bracken + Manzel Kiinu (2024)
+
 # 🧩 Maze Generator and Solver (Java GUI)
 
 A Java desktop application that generates a randomly structured maze based on the user's selected difficulty and allows you to visually solve it using either **Breadth-First Search (BFS)** or **Depth-First Search (DFS)**. The application includes real-time animation and performance timing for each algorithm.
